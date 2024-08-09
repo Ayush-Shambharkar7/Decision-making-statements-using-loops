@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - to print the number in  right angle patter upto n number of rows.
+
 #include<iostream>
 using namespace std;
 
@@ -15,6 +19,8 @@ int main(){
     }
     return 0;
 }
+
+
 /*
 OUTPUT
 enter the value of n:4
