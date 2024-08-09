@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - to print the inverted pryramid patter using for loops.
+
 #include <iostream>
 using namespace std;
  
