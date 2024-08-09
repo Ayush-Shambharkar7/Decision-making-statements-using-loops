@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - take input from user and end the loop if the user enter 'SIT' .
+
 #include <iostream>
 using namespace std;
 
@@ -12,6 +16,7 @@ int main() {
         }
     } while (name != "SIT");
 }
+
 /*
 OUTPUT 
 Enter the Name: sit
