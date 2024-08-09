@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - To print the astrics patter in a right angle triangle form.
+
 #include<iostream>
 using namespace std;
 
