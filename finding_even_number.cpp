@@ -1,8 +1,12 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - only print the even number from 0 to 20.
+
 #include<iostream>
 using namespace std;
 int main(){
     int i ,n;
-    cout << "enter the value od n:";
+    cout << "enter the value of n:";
     cin >> n;
     for  (i = 0; i <= n; i++)
     {
@@ -16,7 +20,7 @@ int main(){
 
 /*
 OUTPUT
-enter the value od n:20
+enter the value of n:20
 0
 2
 4
