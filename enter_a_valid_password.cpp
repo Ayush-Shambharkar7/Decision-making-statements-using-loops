@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - ask the user to enter the password if the entered password matches print access granted.
+
 #include<iostream>
 using namespace std;
 
@@ -17,6 +21,8 @@ int main(){
     
     return 0;
 }
+
+
 /*
 OUTPUT
 Enter password:12
