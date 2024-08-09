@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - To reverse your PRN using while loops.
+
 #include <iostream>
 using namespace std;
 
