@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - print hello world using for loop for n number of times.
+
 #include<iostream>
 using namespace std;
 
