@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - to print upto 20 using while loops.
+
 #include<iostream>
 using namespace std;
 
